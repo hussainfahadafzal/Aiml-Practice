@@ -12,9 +12,13 @@ It is created only for learning and practice purposes, not for full-scale or pro
 	•	Develop a strong foundation for AI/ML
 	•	Prepare for advanced ML concepts and projects
 
+
 ⸻
 
 👤 Maintained By
+
+Fahad Afzal Hussain
+
 
 Fahad Afzal Hussain
 

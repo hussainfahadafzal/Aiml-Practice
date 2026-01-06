@@ -1,26 +1,20 @@
-# AIML Assignment Practice Repository
+🤖 AIML Assignment Practice Repository
 
-This repository contains **assignment-based practice** for various topics related to **Python and AI/ML fundamentals**.  
-It is created purely for **learning and practice purposes**, not for full-scale projects.
+This repository contains assignment-based practice for Python fundamentals and AI/ML basics.
+It is created only for learning and practice purposes, not for full-scale or production projects.
 
----
+⸻
 
-## 📌 Purpose of This Repository
-- Practice core programming concepts
-- Maintain consistency and discipline
-- Track learning progress topic-wise
-- Build strong fundamentals before projects
+🎯 Purpose of This Repository
+	•	Strengthen Python fundamentals
+	•	Practice concepts through structured assignments
+	•	Build consistency and discipline
+	•	Develop a strong foundation for AI/ML
+	•	Prepare for advanced ML concepts and projects
 
----
+⸻
 
-## 📅 Daily Practice Log
+👤 Maintained By
 
-### Day 1 – Python Fundamentals
-- Conditionals, loops, functions, match-case
-- Solved basic logical problems  
-Status: ✅ Completed | 06 Jan 2026
-
----
-
-## 👤 Author
 Fahad Afzal Hussain
+
